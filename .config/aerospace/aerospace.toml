@@ -77,6 +77,11 @@ default-root-container-orientation = 'auto'
     alt-ctrl-cmd-k = 'exec-and-forget ~/.config/aerospace/app_toggle_sized.sh Slack left2'
     alt-ctrl-cmd-w = 'exec-and-forget ~/.config/aerospace/app_toggle_sized.sh WhatsApp left2'
     alt-ctrl-cmd-o = 'exec-and-forget osascript ~/.config/aerospace/app_toggle.scpt Obsidian'
+    alt-ctrl-cmd-f = 'exec-and-forget osascript ~/.config/aerospace/app_toggle.scpt Firefox'
+    alt-ctrl-cmd-d = 'exec-and-forget osascript ~/.config/aerospace/app_toggle.scpt DataGrip'
+    alt-ctrl-cmd-i = 'exec-and-forget osascript ~/.config/aerospace/app_toggle.scpt WebStorm'
+    alt-ctrl-cmd-m = 'exec-and-forget osascript ~/.config/aerospace/app_toggle.scpt Spotify'
+    alt-ctrl-cmd-l = 'exec-and-forget osascript ~/.config/aerospace/app_toggle.scpt GoLand'
     
     cmd-h = [] # Disable "hide application"
     cmd-alt-h = [] # Disable "hide others"
